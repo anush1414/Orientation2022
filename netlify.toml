@@ -1,7 +1,7 @@
 ## Redirects to new website
 [[redirects]]
   from = "/"
-  to = "https://root.sutd.edu.sg"
+  to = "https://sutd.edu.sg"
   status = 200
   force = true # COMMENT: ensure that we always redirect
   headers = {X-From = "Netlify"}
