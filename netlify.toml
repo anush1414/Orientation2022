@@ -1,7 +1,7 @@
 ## Redirects to new website
 [[redirects]]
   from = "/"
-  to = "https://sutd.edu.sg"
-  status = 200
+  to = "https://orientation-website.vercel.app/"
+  status = 301
   force = true # COMMENT: ensure that we always redirect
   headers = {X-From = "Netlify"}
