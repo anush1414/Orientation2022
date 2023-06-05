@@ -1,6 +1,6 @@
 ## Redirects to new website
 [[redirects]]
-  from = "/"
+  from = ""
   to = "https://orientation-website.vercel.app"
   status = 200
   force = true # COMMENT: ensure that we always redirect
