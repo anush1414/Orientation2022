@@ -1,4 +1,4 @@
-## This rule redirects to an external API, signing requests with a secret
+## Redirects to new website
 [[redirects]]
   from = "/"
   to = "https://orientation-website.vercel.app/"
